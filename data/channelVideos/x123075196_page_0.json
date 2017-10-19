@@ -3,7 +3,7 @@
     "data": [
         {
             "id": "123123319",
-            "title": "Syphon Filter - October 1997 Beta - Test Video",
+            "title": "The good times in Syphon Filter",
             "date_created": "1371393226",
             "loginId": "1759045",
             "tags": "",
@@ -18,10 +18,12 @@
                 "author": "Syphon Filter Central",
                 "mediaDuration": 21,
                 "prettyDuration": "00:00:21",
-                "views": "1676"
+                "views": "1676",
+                "uploadAsset": false,
+                "quality": ""
             },
             "parentId": "123075196",
-            "url": "\/la-presa\/syphon-filter-october-1997-beta-test-video\/123075196-123123319"
+            "url": "\/la-presa\/the-good-times-in-syphon-filter\/123075196-123123319"
         }
     ]
 }

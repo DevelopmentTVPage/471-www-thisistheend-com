@@ -1,9 +1,9 @@
 {
-    "title": "Syphon Filter - October 1997 Beta - Test Video",
+    "title": "The good times in Syphon Filter",
     "description": "This is a Syphon Filter Central exclusive video from the October 1997 version of Syphon Filter from 989 Studios & Eidetic.  There was no sound with the video so I found it most fitting to have the nostalgic theme song we all love accompany it.",
     "referenceId": "Slmzg7eCEfc",
     "date_created": "1371393226",
-    "date_modified": "1508372049",
+    "date_modified": "1508377143",
     "tags": "",
     "sourceId": "4",
     "status": "approved",
@@ -15,15 +15,15 @@
     "id": "123123319",
     "loginId": "1759045",
     "entityType": "1",
-    "titleTextEncoded": "Syphon-Filter-October-1997-Beta-Test-Video",
+    "titleTextEncoded": "The-good-times-in-Syphon-Filter",
     "category": "",
     "tvp_profiles": [
+        "11",
         "25",
-        "18",
-        "2"
+        "18"
     ],
     "tvp_profiles_manual": "",
-    "tvp_profiles_maxscore": 479.4224,
+    "tvp_profiles_maxscore": 524.4334,
     "VIDEO_LENGTH": "SHORT",
     "duration": 21,
     "settings": "",
@@ -37,7 +37,9 @@
         "author": "Syphon Filter Central",
         "mediaDuration": 21,
         "prettyDuration": "00:00:21",
-        "views": "1676"
+        "views": "1676",
+        "uploadAsset": false,
+        "quality": ""
     },
     "transcripts": "",
     "metrics_statistics": ""
