@@ -1,9 +1,9 @@
 {
-    "title": "Eternal Channel",
-    "description": null,
+    "title": "La presa",
+    "description": "",
     "referenceId": null,
     "date_created": "1508371269",
-    "date_modified": "1508371269",
+    "date_modified": "1508375745",
     "tags": null,
     "sourceId": null,
     "status": "pending",
@@ -11,9 +11,13 @@
     "id": "123075196",
     "loginId": "1759045",
     "entityType": "3",
-    "titleTextEncoded": "Eternal-Channel",
+    "titleTextEncoded": "la-presa",
     "category": null,
     "duration": null,
-    "settings": "{\"canvasImage\":\"default_canvas3.jpg\",\"colorClass\":\"light\",\"canvasType\":\"gallery\"}",
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery"
+    },
     "transcripts": null
 }
